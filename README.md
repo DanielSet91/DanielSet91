@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Daniel
+# Hi there 👋
+I'm Daniel
 
 💻 A passionate **Fullstack / Frontend Developer**  
 🔭 Currently working on **MindSway**  
